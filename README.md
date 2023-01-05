@@ -19,7 +19,10 @@ terraform plan
 terraform apply
 terraform show
 terraform state list
+```
+![Azure Resource Group created by Terraform](images/AzureTerraform_RG.jpg)
 
+```
 
 
 
